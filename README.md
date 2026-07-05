@@ -93,3 +93,9 @@ if you want to contribute.
 ![Plugin Report Example Screenshot - Show All](https://github.com/maskeproductions/macos-plugin-finder/blob/main/screenshot01.png)
 
 [View Sample Plugin Report](sample_report.html)
+
+<!-- repository-markdown-index:start -->
+## Repository Markdown index
+
+- [AGENTS.md](AGENTS.md)
+<!-- repository-markdown-index:end -->
