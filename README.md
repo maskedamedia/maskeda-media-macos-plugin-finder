@@ -99,3 +99,10 @@ if you want to contribute.
 
 - [AGENTS.md](AGENTS.md)
 <!-- repository-markdown-index:end -->
+
+## CI runner policy
+
+Linux jobs use the organization's self-hosted Linux x64 runners. macOS jobs
+use its self-hosted macOS ARM64 runner. Jobs wait when the matching runners
+are offline; there is no GitHub-hosted fallback. Fork pull requests do not
+execute on these private machines.

@@ -1,0 +1,2 @@
+self-hosted-runner:
+  labels: [maskeda-stream, maskeda-win01]
